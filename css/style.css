@@ -34,7 +34,7 @@
             .flex {
                 flex-wrap: wrap;
                     margin=0px;
-                    padding=1fr;
+                    
             }
         }
         
@@ -92,7 +92,7 @@
             #flexbox {
                 flex-wrap: wrap-reverse;
                     margin=0px;
-                    padding=1px
+                   
                     
             }
         }
