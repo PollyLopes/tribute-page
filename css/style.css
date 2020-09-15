@@ -86,7 +86,7 @@
             padding: 2fr;
         }
         
-        @media only scree and (max-width:600px) {
+        @media only screen and (max-width:600px) {
             #flexbox {
                 flex-wrap: wrap;
             }
